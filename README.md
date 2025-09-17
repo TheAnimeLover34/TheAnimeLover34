@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm TheAnimeLover34 (Parsa307)</h1>
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/Parsa307/Parsa307/master/CachyOS.svg" alt="CachyOS"/> Proud CachyOS User & Open-Source Developer
-</h3>
+- Hi 👋, I'm TheAnimeLover34 (Parsa307)
+- ![CachyOS](https://raw.githubusercontent.com/Parsa307/Parsa307/master/CachyOS.svg) Proud CachyOS (KDE) User & Open-Source Developer
+- Linus Torvalds: I think ‘open’ is important in the sense of honesty.
